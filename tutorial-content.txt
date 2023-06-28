@@ -1,0 +1,57 @@
+Questions,
+    1. Briefly explain the need of a programming language?
+    2.  Compare and contrast the differences between followings;
+        a. Source Code vs. Machine Code
+        b. High Level Language vs. Low Level Language
+        c. Compiler vs. Interpreter
+        d. Structured Language vs. Object Oriented Language
+        e. C vs. C++
+        f. C++ v. Java
+        g. Syntax error vs. Logical error
+
+Answers,
+    1.
+        Programming language abstract the machine language and make it easier for humans to develop
+        software efficiently and effectively.
+    2.
+        a.
+            Source code is the actual code a programmer writes where as machine code is the code that
+            is compiled/interpreted from the source code and is executed by the computer.
+        b.
+            High level languages are languages that are closer to human language where as low level
+            languages are closer to machine language. High level languages are easier to read and
+            write where as low level languages are harder to read and write. High level languages
+            are more portable where as low level languages are less portable. High level languages
+            are slower than low level languages where as low level languages are faster than high
+            level languages.
+        c.
+            A compiler translated source code into machine code before execution, all the possible
+            branching of execution flow of the program is translated and errors are raised before
+            execution. Where as an intepreter compiles and executes code line by line where the
+            program flow branches accordingly, errors are only raised when a chunk of code where
+            the error lies is executed. Compiled programs are typically faster than interpreted
+            as they are not embeded in a run time environment.
+        d.
+            A structured language is a language that is based on the concept of structured programming
+            where as an object oriented language is based on the concept of object oriented programming.
+            Structured programming is based on the concept of breaking down a program into smaller
+            subroutines or functions, where as object oriented programming is based on the concept of
+            objects and classes. Structured programming is more suited for smaller programs where as
+            object oriented programming is more suited for larger programs.
+        e.
+            C is a very basic strutured language used as a base for many other languages, it is a
+            procedural language where as C++ is a structured language that is object oriented. C++
+            implements many features of object oriented programming such as classes, inheritance.
+        f.
+            Both the languages are object oriented, however Java is a high level language where
+            designed to be platform independent where as C++ is designed to be platform dependent.
+            Java is compiled into bytecode which is then interpreted by the Java Virtual Machine
+            where as C++ is compiled into machine code.
+        g.
+            Syntax errors are raised when the rules that govern the language syntax is violated.
+            Source code should be written in a way where the specific Interpreter/compiler can
+            understand the program flow in accordance with its abstract syntax tree.
+            Meanwhile logical errors are when the program does not behave as expected, this is
+            usually due to the programmer not understanding the problem or the language well
+            enough to implement the solution correctly. To mitigate this, the programmer should
+            test the program thoroughly and debug the program.
